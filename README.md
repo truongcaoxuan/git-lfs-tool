@@ -7,6 +7,7 @@
 ```
         $ git clone https://github.com/truongcaoxuan/git-lfs-tool.git
         $ cd git-lfs-tool
+        $ chmod +x git-lfs-install.sh
         $ ./git-lfs-install.sh
  ```   
     Verify that the installation was successful:
