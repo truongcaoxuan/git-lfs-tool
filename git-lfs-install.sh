@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Update ca certificates
+# Update ca certificates for issue Unable to establish SSL connection
 sudo /usr/sbin/update-ca-certificates --fresh
 
 # Download latest git-lfs 
