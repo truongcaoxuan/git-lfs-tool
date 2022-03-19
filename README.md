@@ -52,4 +52,6 @@ https://github.com/git-lfs/git-lfs/blob/main/docs
 
 There's also a FAQ on the wiki which answers some common questions.
 https://github.com/git-lfs/git-lfs/wiki/FAQ
-Other way: https://packagecloud.io/github/git-lfs/install
+
+Linux users. Debian and RPM packages are available from PackageCloud.
+https://packagecloud.io/github/git-lfs/install
