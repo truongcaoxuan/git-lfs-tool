@@ -4,10 +4,11 @@
 
 *1. Setup Git LFS on your system. You only have to do this once per*
     repository per machine:
+```
         $ git clone https://github.com/truongcaoxuan/git-lfs-tool.git
         $ cd git-lfs-tool
         $ ./git-lfs-install.sh
-    
+ ```   
     Verify that the installation was successful:
 ```
         $ git lfs install
