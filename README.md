@@ -46,5 +46,8 @@ You can get help on specific commands directly:
 ```
         $ git lfs help <subcommand>
 ```
-The official documentation has command references and specifications for the tool. There's also a FAQ on the wiki which answers some common questions.
+The official documentation has command references and specifications for the tool. 
 https://github.com/git-lfs/git-lfs/blob/main/docs
+
+There's also a FAQ on the wiki which answers some common questions.
+https://github.com/git-lfs/git-lfs/wiki/FAQ
