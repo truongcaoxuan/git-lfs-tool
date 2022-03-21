@@ -4,12 +4,19 @@
 
 *1. Setup Git LFS on your system. You only have to do this once per*
     repository per machine:
+
+--For Ubuntu user
 ```
         $ git clone https://github.com/truongcaoxuan/git-lfs-tool.git
         $ cd git-lfs-tool
         $ chmod +x git-lfs-install.sh
         $ ./git-lfs-install.sh
- ```   
+ ```  
+ 
+ --For Windows users can install from Chocolatey with comand
+ ```
+         choco install git-lfs
+ ```
     Verify that the installation was successful:
 ```
         $ git lfs install
